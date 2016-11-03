@@ -34,6 +34,7 @@ Share and find new recipes, give suggestions to users for their own recipes, sho
 - User.Swift
 - Recipe.Swift
 - SearchResults.Swift (shortened users and recipes)
+
 ### Views
 - LogInView
 - SearchView
