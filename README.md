@@ -4,6 +4,9 @@
 - Soham Shah
 - Liz Lee
 
+##NOTE:
+This app has been built on Firebase, in order to allow for scalability of several users and automatically upload recipes and user data to the cloud without any need for using Core Data. Firebase also allows for crash reports, analytics and authentication, which was significant reason to make use of it. To build and run the project, there's a high chance Firebase will have to be installed along with cocoapods. If desired, we can send a video screen capture of the app being used and demonstrating its functionality.
+
 ## Purpose
 Share and find new recipes, give suggestions to users for their own recipes, show interest in buying recipes made locally (through upvotes) and make/sell recipes with high local interest.
 
