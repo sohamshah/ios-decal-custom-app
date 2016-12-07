@@ -1,4 +1,4 @@
-# YumYum
+# Cupcake
 
 ## Authors
 - Soham Shah
