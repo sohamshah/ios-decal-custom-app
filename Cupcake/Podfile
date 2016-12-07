@@ -10,6 +10,7 @@ target 'Cupcake' do
   pod 'Firebase/Core'
   pod 'Firebase/Auth'
   pod 'Firebase/Database'
+  pod 'Firebase/Storage'
 
   target 'CupcakeTests' do
     inherit! :search_paths

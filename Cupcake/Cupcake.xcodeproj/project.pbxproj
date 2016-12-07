@@ -18,6 +18,8 @@
 		ED2750E91DF7A4E400074564 /* CupcakeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED2750E81DF7A4E400074564 /* CupcakeTests.swift */; };
 		ED2750F41DF7A4E400074564 /* CupcakeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED2750F31DF7A4E400074564 /* CupcakeUITests.swift */; };
 		ED2751021DF7A5E200074564 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = ED2751011DF7A5E200074564 /* GoogleService-Info.plist */; };
+		ED3AFBF41DF801A300B212BD /* PostTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3AFBF31DF801A300B212BD /* PostTableViewCell.swift */; };
+		ED3AFBF61DF802D200B212BD /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3AFBF51DF802D200B212BD /* MainViewController.swift */; };
 		F2B83F6AA5DE69DBF9D9DDA1 /* Pods_Cupcake.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 429CB2A66677763BECFBDF6E /* Pods_Cupcake.framework */; };
 		F301A403DFA25000ABE1D27F /* Pods_CupcakeUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 49CC209B6F51103BC34ECB7A /* Pods_CupcakeUITests.framework */; };
 /* End PBXBuildFile section */
@@ -64,6 +66,8 @@
 		ED2750F31DF7A4E400074564 /* CupcakeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CupcakeUITests.swift; sourceTree = "<group>"; };
 		ED2750F51DF7A4E400074564 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		ED2751011DF7A5E200074564 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		ED3AFBF31DF801A300B212BD /* PostTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PostTableViewCell.swift; sourceTree = "<group>"; };
+		ED3AFBF51DF802D200B212BD /* MainViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 		F9B62800B08944D7C7A533ED /* Pods-CupcakeTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CupcakeTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-CupcakeTests/Pods-CupcakeTests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -146,6 +150,8 @@
 				ED2750D31DF7A4E400074564 /* AppDelegate.swift */,
 				ED2750D51DF7A4E400074564 /* ViewController.swift */,
 				ED2750D71DF7A4E400074564 /* Main.storyboard */,
+				ED3AFBF51DF802D200B212BD /* MainViewController.swift */,
+				ED3AFBF31DF801A300B212BD /* PostTableViewCell.swift */,
 				ED12799E1DF7CEE50087B31E /* PostViewController.swift */,
 				ED12799C1DF7C45C0087B31E /* RegisterViewController.swift */,
 				ED2750DA1DF7A4E400074564 /* Assets.xcassets */,
@@ -458,6 +464,8 @@
 			files = (
 				ED12799F1DF7CEE50087B31E /* PostViewController.swift in Sources */,
 				ED12799D1DF7C45C0087B31E /* RegisterViewController.swift in Sources */,
+				ED3AFBF41DF801A300B212BD /* PostTableViewCell.swift in Sources */,
+				ED3AFBF61DF802D200B212BD /* MainViewController.swift in Sources */,
 				ED2750D61DF7A4E400074564 /* ViewController.swift in Sources */,
 				ED2750D41DF7A4E400074564 /* AppDelegate.swift in Sources */,
 			);
