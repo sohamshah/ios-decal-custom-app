@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cupcake/PostViewController.swift"
+            timestampString = "502870088.969932"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "uploadImage(image:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cupcake.PostViewController.uploadImage (image : __ObjC.UIImage) -&gt; ()"
+                  moduleName = "Cupcake"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Liz/ios/ios-decal-custom-app-master/Cupcake/Cupcake/PostViewController.swift"
+                  timestampString = "502870094.073057"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "628">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cupcake.PostViewController.(uploadImage (image : __ObjC.UIImage) -&gt; ()).(closure #1)"
+                  moduleName = "Cupcake"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Liz/ios/ios-decal-custom-app-master/Cupcake/Cupcake/PostViewController.swift"
+                  timestampString = "502870094.078865"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "27">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

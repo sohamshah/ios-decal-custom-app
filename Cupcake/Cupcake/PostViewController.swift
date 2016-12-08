@@ -75,7 +75,7 @@ class PostViewController: UIViewController, UIImagePickerControllerDelegate, UIN
     
     func randomStringWithLength(length: Int) -> NSString {
         let characters: NSString = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUBWXYZ0123456789"
-        var randomString: NSMutableString = NSMutableString(capacity: length)
+        let randomString: NSMutableString = NSMutableString(capacity: length)
         
         for i in 0..<length {
             var len = UInt32(characters.length)
